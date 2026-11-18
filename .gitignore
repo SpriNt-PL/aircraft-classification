@@ -2,6 +2,6 @@
 
 dataset/
 
-runs/
-
 sanity_check_logs.txt
+
+military_aircraft_classification.pth
